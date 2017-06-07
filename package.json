@@ -12,7 +12,6 @@
     "addressparser": "1.0.1",
     "he": "^1.1.1",
     "html-to-text": "3.2.0",
-    "iconv": "^2.2.3",
     "iconv-lite": "0.4.17",
     "libmime": "3.1.0",
     "mailsplit": "4.0.2"
